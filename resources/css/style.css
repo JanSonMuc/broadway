@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: blue;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+.identity,
+.understand,
+.execute,
+.portfolio,
+.team,
+.contact1,
+.contact2,
+.contact3 {
+  font-size: 14px;
+  color: black;
+}
+
+.ny {
+  color: white;
+}
+
+p {
+  font-size: 18px;
+  color: blue;
+  text-align: center;
+}
