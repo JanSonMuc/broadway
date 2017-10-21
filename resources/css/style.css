@@ -6,7 +6,6 @@ html {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: blue;
 }
 
 h2 {
@@ -35,4 +34,27 @@ h3 {
 
 .ny {
   color: white;
+}
+
+div {
+  color: white;
+}
+
+.navi {
+  font-size: 18px;
+  text-decoration:underline;
+}
+
+.footer {
+  color:white;
+  font-size: 11px;
+}
+
+.footer-home,
+.footer-process,
+.footer-work,
+.footer-team,
+.footer-contact {
+  font-size: 18px;
+  text-decoration:underline;
 }
